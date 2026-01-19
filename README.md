@@ -43,7 +43,3 @@ Copy the content from the included `claude_desktop_config.json` to your system's
     1.  *"What is the current weather in Chicago?"*
     2.  *"What is the weather forecast for Chicago for the next 5 days?"*
     3.  *"Are there any severe weather alerts for Chicago?"*
-
-<video src="sample.mp4" controls="controls" style="max-width: 100%;">
-  Your browser does not support the video tag.
-</video>
