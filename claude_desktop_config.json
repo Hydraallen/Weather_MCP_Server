@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "weather-docker": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "-e", "MCP_TRANSPORT=stdio",
+        "weather-mcp-weather-mcp"
+      ]
+    }
+  }
+}
+
