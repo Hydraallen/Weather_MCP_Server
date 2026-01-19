@@ -1,8 +1,8 @@
-# 🌦️ Weather MCP Server
+# Weather MCP Server
 
 A Python-based Model Context Protocol (MCP) server for weather data, running in a Docker container and connecting to Claude Desktop via Stdio.
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Build the Docker Image
 Run the following command in the project root. This packages the Python environment.
